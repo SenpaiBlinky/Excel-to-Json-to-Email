@@ -1,0 +1,89 @@
+function Clients() {
+    return [
+        
+            {
+               "name":"aaaaaaaa",
+               "password":"1111111111",
+               "email":"aaaaaaaa@gmail.com",
+               "money":"12",
+               "nationality":"Korean",
+               "":""
+            },
+            {
+               "name":"bbbbbbbbb",
+               "password":"222222222222",
+               "email":"bbbbbbbbb@gmail.com",
+               "money":"23",
+               "nationality":"American",
+               "":""
+            },
+            {
+               "name":"ccccccccc",
+               "password":"3333333333",
+               "email":"ccccccccc@gmail.com",
+               "money":"34",
+               "nationality":"Korean",
+               "":""
+            },
+            {
+               "name":"ddddddddd",
+               "password":"4444444",
+               "email":"ddddddddd@gmail.com",
+               "money":"45",
+               "nationality":"American",
+               "":""
+            },
+            {
+               "name":"eeeeeeeeeee",
+               "password":"5555555555",
+               "email":"eeeeeeeeeee@gmail.com",
+               "money":"56",
+               "nationality":"Korean ",
+               "":""
+            },
+            {
+               "name":"fffffffffffffff",
+               "password":"6666666666",
+               "email":"fffffffffffffff@gmail.com",
+               "money":"67",
+               "nationality":"American",
+               "":""
+            },
+            {
+               "name":"ggggggggggg",
+               "password":"77777777",
+               "email":"ggggggggggg@gmail.com",
+               "money":"78",
+               "nationality":"Korean",
+               "":""
+            },
+            {
+               "name":"hhhhhhhhhhh",
+               "password":"8888889",
+               "email":"hhhhhhhhhhh@gmail.com",
+               "money":"89",
+               "nationality":"Iranian",
+               "":""
+            },
+            {
+               "name":"iiiiiiiiiiiii",
+               "password":"999999999",
+               "email":"iiiiiiiiiiiii@gmail.com",
+               "money":"90",
+               "nationality":"Korean",
+               "":""
+            },
+            {
+               "name":"jjjjjjjjjjjjjjjjj",
+               "password":"101010101010101",
+               "email":"jjjjjjjjjjjjjjjjj@gmail.com",
+               "money":"89",
+               "nationality":"Iranian",
+               "":""
+            }
+         
+        
+      ]
+}
+
+export default Clients
